@@ -1,0 +1,9 @@
+name: bg_download_example
+version: 0.1.0
+
+environment:
+  sdk: ">=2.4.0 <3.0.0"
+
+dependencies:
+  bg_download:
+    path: ../
